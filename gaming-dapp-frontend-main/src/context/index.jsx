@@ -2,10 +2,10 @@ import React, { createContext, useContext, useEffect, useRef, useState } from 'r
 import { ethers } from 'ethers';
 import Web3Modal from 'web3modal';
 import { useNavigate } from 'react-router-dom';
-
-import { GetParams } from '../utils/onboard';
+// import { GetParams } from '../utils/onboard';
 import { ABI, ADDRESS } from '../contract';
 import { createEventListeners } from './createEventListeners';
+import { GetParams } from '../utils/onboard';
 
 const GlobalContext = createContext();
 
