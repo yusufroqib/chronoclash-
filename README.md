@@ -1,5 +1,5 @@
 
-_Contract Deployment_: [link](https://sepolia-blockscout.lisk.com/address/0x932026E1A7b0F690233973633448450d7656BF03)
+_Contract Deployment_: [Lisk Sepolia](https://sepolia-blockscout.lisk.com/address/0x932026E1A7b0F690233973633448450d7656BF03)
 ### Inspiration
 The inspiration behind building this online multiplayer Web 3.0 NFT card game stemmed from the transformative potential of Web 3.0 technology. We wanted to create an engaging, real-time gaming experience that showcases the capabilities of blockchain and smart contracts, particularly leveraging the Lisk L2 platform for its speed and low-cost transactions. Our goal was to provide users with a seamless and immersive gaming experience while exploring the possibilities of decentralized applications and NFTs.
 
